@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Shoaib Akhtar</h1>
-<h3 align="center">AI/ML Engineer | MLOps Specialist | Building Production-Ready AI Systems</h3>
+<h3 align="center">AI/ML Engineer | Data Scientist | Building Intelligent Systems at Scale</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;MLOps+%26+AI+Systems+Developer;NLP+%26+RAG+Systems+Specialist;Cloud-Native+ML+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Data+Scientist+%7C+NLP+Specialist;Building+Production-Ready+AI+Systems;RAG+%26+LLM+Applications+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,196 +15,187 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech in AI & Data Science** | 6th Semester  
-📍 **Location:** Ambala, Haryana, India  
-🚀 **Passion:** Building end-to-end AI systems — from data to deployment to dashboards
+🎓 **B.Tech in Artificial Intelligence & Data Science** | 6th Semester  
+📍 **Ambala, Haryana, India**  
+💼 **Focus:** AI/ML Engineering, Data Science, NLP & LLM Systems
 
-```python
-class MLEngineer:
-    def __init__(self):
-        self.name = "Md Shoaib Akhtar"
-        self.role = "AI/ML Engineer"
-        self.focus = ["Production ML", "MLOps", "NLP & RAG Systems"]
-        self.currently_working_on = [
-            "Designing & deploying ML/DL models in production",
-            "Building scalable NLP, LLM & RAG systems",
-            "Developing end-to-end MLOps pipelines (deployment, monitoring, scaling)",
-            "Mastering DSA for technical excellence"
-        ]
-    
-    def get_expertise(self):
-        return {
-            "ML/DL": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
-            "NLP & LLMs": ["LangChain", "LangGraph", "RAG Systems", "Multi-Agent Systems"],
-            "MLOps": ["MLflow", "DVC", "Docker", "Kubernetes", "CI/CD"],
-            "Cloud": ["AWS (EC2, S3, ECR)", "Cloud-Native Architectures"],
-            "Monitoring": ["Prometheus", "Grafana", "System Observability"],
-            "Data Engineering": ["Pandas", "NumPy", "SQL", "Power BI"]
-        }
-```
+I'm passionate about transforming data into intelligent solutions. Currently specializing in **Machine Learning**, **Deep Learning**, and **Natural Language Processing** with hands-on experience in building **production-grade AI systems**. My expertise spans from data analysis and model development to deployment pipelines and system monitoring.
 
-### 🎯 Current Focus
+### 🎯 What I'm Working On
 
-- 🔬 **Production ML Systems** - End-to-end ML pipelines with robust monitoring
-- 🤖 **Advanced RAG Architectures** - Building scalable retrieval-augmented generation systems
-- ⚙️ **MLOps Excellence** - Cloud-native deployment with Kubernetes orchestration
-- 💡 **LLM Applications** - Multi-agent systems using LangChain & LangGraph
+🔬 **AI/ML Development** - Designing and deploying Machine Learning & Deep Learning models for real-world applications  
+🤖 **NLP & LLM Systems** - Building advanced RAG (Retrieval-Augmented Generation) architectures and LLM-powered applications  
+⚙️ **End-to-End Pipelines** - Developing MLOps workflows including deployment, monitoring, and scaling  
+💡 **Technical Excellence** - Enhancing Data Structures & Algorithms for engineering interviews
 
 ### 🤝 Open to Collaborate On
 
 ✅ Production-grade **AI/ML/NLP/RAG** projects  
-✅ **LLM-powered applications** with modern frameworks  
-✅ **Cloud-native MLOps** systems with Kubernetes  
-✅ **Distributed ML workloads** and system optimization
+✅ **LLM-powered applications** using LangChain and LangGraph  
+✅ **Cloud-native MLOps** systems with Kubernetes orchestration  
+✅ **Data Science** solutions with measurable business impact
+
+### 🌱 Currently Learning
+
+📚 **Advanced DSA** patterns and optimization techniques  
+🏗️ **Production-ready RAG** architectures for large-scale systems  
+🤖 **Advanced LangGraph** workflows for multi-agent systems
+
+### 🔍 Looking for Help With
+
+🚀 Large-scale **RAG system optimization**  
+📊 Advanced **ML system reliability** and observability  
+☁️ **Distributed ML workloads** on Kubernetes
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Technical Skills
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <h3>🤖 ML & Deep Learning</h3>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /><br/>
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" />
+    <th width="33%">Machine Learning</th>
+    <th width="33%">Deep Learning</th>
+    <th width="33%">NLP & LLMs</th>
+  </tr>
+  <tr>
+    <td>
+      • Supervised Learning<br/>
+      • Unsupervised Learning<br/>
+      • Ensemble Methods<br/>
+      • XGBoost<br/>
+      • Random Forest<br/>
+      • Regression & Classification<br/>
+      • Model Evaluation & Tuning
     </td>
-    <td align="center" width="33%">
-      <h3>🧠 NLP & LLMs</h3>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-00C7B7?style=flat-square&logo=graph&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/RAG%20Systems-FF6B6B?style=flat-square" />
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+    <td>
+      • Neural Networks<br/>
+      • CNNs<br/>
+      • TensorFlow<br/>
+      • Keras<br/>
+      • Model Optimization<br/>
+      • Transfer Learning
     </td>
-    <td align="center" width="33%">
-      <h3>⚙️ MLOps & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git" /><br/>
-      <img src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue" />
-      <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white" />
+    <td>
+      • Large Language Models<br/>
+      • RAG Systems<br/>
+      • LangChain<br/>
+      • LangGraph<br/>
+      • Multi-Agent Systems<br/>
+      • Text Processing<br/>
+      • Semantic Search
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <h3>💻 Development Tools</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,jupyter" /><br/>
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+    <th width="33%">Data Science & Analysis</th>
+    <th width="33%">MLOps</th>
+    <th width="33%">Infrastructure</th>
+  </tr>
+  <tr>
+    <td>
+      • Python (NumPy, Pandas)<br/>
+      • Data Visualization<br/>
+      • Matplotlib<br/>
+      • Seaborn<br/>
+      • Power BI<br/>
+      • SQL & MySQL<br/>
+      • Statistical Analysis
     </td>
-    <td align="center" width="33%">
-      <h3>📊 Data Science</h3>
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
-      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
+    <td>
+      • MLflow<br/>
+      • DVC<br/>
+      • CI/CD Pipelines<br/>
+      • Git & GitHub<br/>
+      • GitHub Actions<br/>
+      • Model Monitoring<br/>
+      • Experiment Tracking
     </td>
-    <td align="center" width="33%">
-      <h3>☁️ Cloud & Infrastructure</h3>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-      <img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <td>
+      • Docker<br/>
+      • Basic Kubernetes<br/>
+      • AWS (EC2, S3, ECR)<br/>
+      • Prometheus<br/>
+      • Grafana<br/>
+      • Linux<br/>
+      • Cloud Deployment
     </td>
-    <td align="center" width="33%">
-      <h3>📈 Monitoring & Observability</h3>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  </tr>
+  <tr>
+    <th colspan="3">Development Tools</th>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      VS Code • Jupyter Notebook • Git • GitHub • Streamlit • FastAPI
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Technical Toolkit
+## 🚀 Technology Stack
 
+### **Machine Learning & Deep Learning**
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
 </p>
 
+### **Natural Language Processing & LLMs**
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-00C7B7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
+### **Data Science & Analysis**
 <p align="center">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### **Development & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
+### **MLOps & CI/CD**
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### **Cloud & Monitoring**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+### **Databases**
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-## 💼 What I Bring to the Table
-
-<table>
-  <tr>
-    <td width="50%">
-      
-### 🎯 **Production ML Expertise**
-- End-to-end ML pipeline development
-- Model deployment & scaling strategies
-- Performance monitoring & optimization
-- A/B testing & experimentation frameworks
-
-### 🔧 **MLOps Mastery**
-- CI/CD for ML workflows
-- Containerization with Docker
-- Kubernetes orchestration
-- Infrastructure as Code (IaC)
-      
-    </td>
-    <td width="50%">
-      
-### 🤖 **Advanced NLP & RAG**
-- Large Language Model integration
-- Retrieval-Augmented Generation systems
-- Multi-agent orchestration
-- Semantic search & vector databases
-
-### 📊 **Data-Driven Insights**
-- Advanced analytics & visualization
-- Real-time monitoring dashboards
-- System observability & logging
-- Business intelligence reporting
-      
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DataShoaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -226,19 +217,11 @@ class MLEngineer:
 
 ---
 
-## 💡 Random Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
 <div align="center">
 
-### 🚀 Let's Build Production-Ready AI Systems Together!
+### 🚀 Let's Build Intelligent Solutions Together!
 
-**"Transforming Data into Intelligent, Scalable Solutions"**
+**"From Data Ingestion to Deployment, Monitoring, and Dashboards"**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontAlignY=70&animation=twinkling" />
 
