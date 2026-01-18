@@ -15,7 +15,11 @@
 
 ## 👨‍💻 About Me
 
-B.Tech in AI & Data Science | Passionate about **AI/ML, NLP, and LLM systems**, building **production-ready intelligent solutions** with hands-on deployment and dashboards.
+- B.Tech in AI & Data Science | 6th Semester  
+- Passionate **AI/ML Engineer & Data Scientist**  
+- Specialize in **NLP, LLMs, and RAG systems**  
+- Experienced in **production-ready AI solutions** and **data-driven dashboards**  
+- Skilled in **MLOps**: DVC, MLflow, CI/CD, Docker, Kubernetes, model monitoring  
 
 ---
 
@@ -61,7 +65,7 @@ B.Tech in AI & Data Science | Passionate about **AI/ML, NLP, and LLM systems**, 
 ## 🎯 Currently Working On
 - Production-ready **AI/ML & NLP models**  
 - **RAG & LLM systems** with LangChain & LangGraph  
-- **MLOps pipelines** for deployment & monitoring  
+- **MLOps pipelines**: CI/CD, Docker, Kubernetes, MLflow, DVC  
 
 ## 🤝 Open to Collaborate On
 - **AI/ML/NLP/RAG projects**  
@@ -81,14 +85,6 @@ B.Tech in AI & Data Science | Passionate about **AI/ML, NLP, and LLM systems**, 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataShoaib&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DataShoaib&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" />
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DataShoaib&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
 
 ---
 
