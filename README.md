@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'EOF'
 <!-- Header -->
 <div align="center">
 
@@ -75,7 +74,7 @@ All 9 experiments tracked in **MLflow + LangSmith** — fully reproducible, not 
 
 ---
 
-### 📊 3. Telecom Churn Prediction Copilot — [🔗 Live App](https://your-streamlit-url)
+### 📊 3. Telecom Churn Prediction Copilot — [🔗 Live App](datashoaib-telecom-churn-predictor-frontendapp.streamlit.app)
 > *"A working product a retention team could use on day one."*
 
 ```
