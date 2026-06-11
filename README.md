@@ -74,7 +74,7 @@ All 9 experiments tracked in **MLflow + LangSmith** — fully reproducible, not 
 
 ---
 
-### 📊 3. Telecom Churn Prediction Copilot — [🔗 Live App](datashoaib-telecom-churn-predictor-frontendapp.streamlit.app)
+### 📊 3. Telecom Churn Prediction Copilot — [🔗 Live App](https://datashoaib-telecom-churn-predictor-frontendapp-o1vsi2.streamlit.app/)
 > *"A working product a retention team could use on day one."*
 
 ```
